@@ -1,3 +1,9 @@
+---
+layout: page
+title: NodeSchool@InterConnect 2016
+tagline: NodeSchool@InterConnect 2016
+description: NodeSchool@InterConnect 2016
+---
 # Nodeschool @ InterConnect
 
 ## What is nodeschool?
