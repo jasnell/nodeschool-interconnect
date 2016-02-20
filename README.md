@@ -134,19 +134,19 @@ Use npm modules and node-style require() in the browser with browserify.
 Find your way through the web performance optimization maze!
 [npm install -g perfschool][perfschool]
 
-[Node.js project readme][https://github.com/nodejs/node#build]
-[nodeschool][http://nodeschool.io/]
-[substack][http://substack.net/]
-[download][https://nodejs.org/en/download/]
-[nvm][https://github.com/creationix/nvm]
-[javascripting][https://www.github.com/sethvincent/javascripting]
-[learnyounode][https://www.github.com/workshopper/learnyounode]
-[streamadventure][https://github.com/substack/stream-adventure]
-[scc][https://github.com/jesstelford/scope-chains-closures]
-[functional][https://github.com/timoxley/functional-javascript-workshop]
-[ExpressWorks][https://github.com/azat-co/expressworks]
-[promise][https://github.com/stevekane/promise-it-wont-hurt]
-[async][https://github.com/bulkan/async-you]
-[native][https://github.com/workshopper/goingnative]
-[browserify][https://github.com/substack/browserify-adventure]
-[perfschool][https://github.com/bevacqua/perfschool]
+[Node.js project readme]: https://github.com/nodejs/node#build
+[nodeschool]: http://nodeschool.io/
+[substack]: http://substack.net/
+[download]:https://nodejs.org/en/download/
+[nvm]: https://github.com/creationix/nvm
+[javascripting]: https://www.github.com/sethvincent/javascripting
+[learnyounode]: https://www.github.com/workshopper/learnyounode
+[streamadventure]:https://github.com/substack/stream-adventure
+[scc]: https://github.com/jesstelford/scope-chains-closures
+[functional]: https://github.com/timoxley/functional-javascript-workshop
+[ExpressWorks]: https://github.com/azat-co/expressworks
+[promise]: https://github.com/stevekane/promise-it-wont-hurt
+[async]: https://github.com/bulkan/async-you
+[native]: https://github.com/workshopper/goingnative
+[browserify]: https://github.com/substack/browserify-adventure
+[perfschool]: https://github.com/bevacqua/perfschool
